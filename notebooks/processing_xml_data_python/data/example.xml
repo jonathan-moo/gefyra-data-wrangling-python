@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-teams>
+    <date year="2020" month="10" date="10" day="6"/>
+    <time hour="0" minute="05" second="46" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="39" name="English Premier League" alias="EPL" display-name=""/>
+    <season year="2020" id="1" description="2020 EPL Season"/>
+    <ifb-soccer-teams>
+        <team-info global-id="6145" id="21" location="Arsenal" name="" alias="ARS" display-name="Arsenal" city="London" country-id="20" country="England" year-founded="1886"/>
+        <team-info global-id="6144" id="22" location="Aston Villa" name="" alias="AVL" display-name="Aston Villa" city="Birmingham" country-id="20" country="England" year-founded="1874"/>
+        <team-info global-id="6159" id="25" location="Chelsea" name="" alias="CHE" display-name="Chelsea" city="London" country-id="20" country="England" year-founded="1905"/>
+        <team-info global-id="6149" id="28" location="Everton" name="" alias="EVE" display-name="Everton" city="Liverpool" country-id="20" country="England" year-founded="1878"/>
+        <team-info global-id="7126" id="30" location="Leeds United" name="" alias="LEE" display-name="Leeds United" city="Leeds, West Yorkshire" country-id="20" country="England" year-founded="1919"/>
+        <team-info global-id="7127" id="31" location="Leicester City" name="" alias="LEI" display-name="Leicester City" city="Leicester" country-id="20" country="England" year-founded="1884"/>
+        <team-info global-id="6140" id="32" location="Liverpool" name="" alias="LIV" display-name="Liverpool" city="Liverpool" country-id="20" country="England" year-founded="1892"/>
+        <team-info global-id="6158" id="33" location="Manchester City" name="" alias="MCI" display-name="Manchester City" city="Manchester" country-id="20" country="England" year-founded="1880"/>
+        <team-info global-id="6157" id="34" location="Manchester United" name="" alias="MUN" display-name="Manchester United" city="Manchester" country-id="20" country="England" year-founded="1878"/>
+        <team-info global-id="6151" id="36" location="Newcastle United" name="" alias="NEW" display-name="Newcastle United" city="Newcastle upon Tyne" country-id="20" country="England" year-founded="1892"/>
+        <team-info global-id="7128" id="37" location="Southampton" name="" alias="SOU" display-name="Southampton" city="Southampton, Hampshire" country-id="20" country="England" year-founded="1885"/>
+        <team-info global-id="6154" id="39" location="Tottenham Hotspur" name="" alias="TOT" display-name="Tottenham Hotspur" city="London" country-id="20" country="England" year-founded="1882"/>
+        <team-info global-id="6143" id="40" location="West Ham United" name="" alias="WHU" display-name="West Ham United" city="London" country-id="20" country="England" year-founded="1895"/>
+        <team-info global-id="7131" id="90" location="Crystal Palace" name="" alias="CRY" display-name="Crystal Palace" city="London" country-id="20" country="England" year-founded="1905"/>
+        <team-info global-id="6141" id="213" location="Sheffield United" name="" alias="SHU" display-name="Sheffield United" city="Sheffield" country-id="20" country="England" year-founded="1889"/>
+        <team-info global-id="6156" id="214" location="Fulham" name="" alias="FUL" display-name="Fulham" city="London" country-id="20" country="England" year-founded="1879"/>
+        <team-info global-id="7139" id="406" location="West Bromwich Albion" name="" alias="WBA" display-name="West Bromwich Albion" city="West Bromwich" country-id="20" country="England" year-founded="1878"/>
+        <team-info global-id="7140" id="476" location="Wolverhampton Wanderers" name="" alias="WOL" display-name="Wolverhampton Wanderers" city="Wolverhampton" country-id="20" country="England" year-founded="1877"/>
+        <team-info global-id="8240" id="1133" location="Burnley" name="" alias="BRN" display-name="Burnley" city="Burnley, Lancashire" country-id="20" country="England" year-founded="1882"/>
+        <team-info global-id="8257" id="1150" location="Brighton &amp; Hove Albion" name="" alias="BHA" display-name="Brighton &amp; Hove Albion" city="Brighton, East Sussex" country-id="20" country="England" year-founded="1901"/>
+    </ifb-soccer-teams>
+  </sports-teams>
+</sports-statistics>
